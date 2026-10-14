@@ -1,0 +1,6 @@
+interface:
+  display_name: "短视频剪辑实战"
+  short_description: "叠加动效真实透明不盖底片，首帧有内容，最后一次批量导入剪映并在 Codex 展示"
+  default_prompt: "使用 $video-editing-playbook 制作真实 Alpha 透明的叠加动效，背景透明不盖住原底片，第一帧已有可见主体；全部素材与同步准备完成后最后一次批量导入剪映，在 Codex 展示交付，轨道拖动由我完成，不备份、不测试、不保存工程或导出成片。"
+policy:
+  allow_implicit_invocation: true
